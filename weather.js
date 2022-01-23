@@ -52,7 +52,7 @@ const initCLI = () => {
 
 	if (args.h) return printHelp();
 
-	if (args.s) return saveCity(args.s);
+	if (args.c) return saveCity(args.c);
 
 	if (args.t) return saveToken(args.t);
 

@@ -13,7 +13,7 @@ export const printHelp = () => {
 ${chalk.bgCyan(' HELP ')}
 Without params - print weather
 -h to print help
--s [CITY] to set city
+-c [CITY] to set city
 -t [API_KEY] to save token
 `);
 };
