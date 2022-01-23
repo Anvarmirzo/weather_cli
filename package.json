@@ -1,6 +1,6 @@
 {
 	"name": "weather_in_cli_demo",
-	"version": "1.0.1",
+	"version": "1.0.6",
 	"description": "CLI for getting weather",
 	"license": "ISC",
 	"main": "weather.js",
