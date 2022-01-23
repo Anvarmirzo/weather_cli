@@ -1,0 +1,32 @@
+{
+	"name": "weather_in_cli_demo",
+	"version": "1.0.0",
+	"description": "CLI for getting weather",
+	"license": "ISC",
+	"main": "weather.js",
+	"bin": {
+		"weather": "weather.js"
+	},
+	"type": "module",
+	"scripts": {
+		"start": "node ",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"cli",
+		"weather"
+	],
+	"author": "Anvar Ahmadjanov",
+	"repository": {
+		"type": "git",
+		"url": "link"
+	},
+	"bugs": {
+		"email": "www.barkalovadrey@gmail.com"
+	},
+	"dependencies": {
+		"axios": "^0.25.0",
+		"chalk": "^5.0.0",
+		"dotenv": "^14.2.0"
+	}
+}
